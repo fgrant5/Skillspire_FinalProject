@@ -1,0 +1,4 @@
+torch
+torchvision
+gradio==6.31.0
+Pillow
